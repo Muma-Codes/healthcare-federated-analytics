@@ -1,0 +1,18 @@
+# Streamlit frontend dependencies
+streamlit>=1.35.0
+plotly>=5.22.0
+pandas>=2.2.0
+
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+pydantic==2.7.1
+pydantic-settings==2.3.0
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+scikit-learn==1.5.0
+numpy==1.26.4
+cryptography==42.0.8
+pyotp==2.9.0
+bcrypt>=4.0.0
+flwr==1.8.0
+python-dotenv==1.0.1
